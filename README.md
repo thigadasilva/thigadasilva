@@ -1,7 +1,7 @@
 # 👑
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umthiagodasilva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-s-ba5bb42a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umthiagodasilva/)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thigadasilva&show_icons=true&theme=gruvbox&locale=pt-br)
 
