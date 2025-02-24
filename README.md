@@ -3,7 +3,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umthiagodasilva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umthiagodasilva/)
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thigadasilva&show_icons=true&theme=gruvbox&locale=en)
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thigadasilva&show_icons=true&theme=midnight-purple&locale=en)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thigadasilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## Minhas Stacks:
 
