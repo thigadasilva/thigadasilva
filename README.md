@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umthiagodasilva/)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thigadasilva&show_icons=true&theme=midnight-purple&locale=en)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thigadasilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thigadasilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
